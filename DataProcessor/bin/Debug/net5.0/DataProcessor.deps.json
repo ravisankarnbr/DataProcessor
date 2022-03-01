@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DataProcessor/1.0.0": {
+        "dependencies": {
+          "DataApplication": "1.0.0"
+        },
+        "runtime": {
+          "DataProcessor.dll": {}
+        }
+      },
+      "DataApplication/1.0.0": {
+        "dependencies": {
+          "DataDomain": "1.0.0"
+        },
+        "runtime": {
+          "DataApplication.dll": {}
+        }
+      },
+      "DataDomain/1.0.0": {
+        "runtime": {
+          "DataDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataProcessor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

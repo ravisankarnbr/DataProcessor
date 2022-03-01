@@ -1,0 +1,17 @@
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\bin\Debug\net5.0\DataApplication.deps.json
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\bin\Debug\net5.0\DataApplication.dll
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\bin\Debug\net5.0\ref\DataApplication.dll
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\bin\Debug\net5.0\DataApplication.pdb
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\obj\Debug\net5.0\DataApplication.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\obj\Debug\net5.0\DataApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\obj\Debug\net5.0\DataApplication.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\obj\Debug\net5.0\DataApplication.AssemblyInfo.cs
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\obj\Debug\net5.0\DataApplication.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\obj\Debug\net5.0\DataApplication.dll
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\obj\Debug\net5.0\ref\DataApplication.dll
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\obj\Debug\net5.0\DataApplication.pdb
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\bin\Debug\net5.0\tempFiles\Binary_File.txt
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\bin\Debug\net5.0\DataDomain.dll
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\bin\Debug\net5.0\DataDomain.pdb
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\obj\Debug\net5.0\DataApplication.csproj.CopyComplete
+C:\Users\ACER\Desktop\DataProcessor\DataApplication\bin\Debug\net5.0\tempFiles\Text_File.txt

@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\DataProcessor\DataDomain\bin\Debug\net5.0\DataDomain.deps.json
+C:\Users\ACER\Desktop\DataProcessor\DataDomain\bin\Debug\net5.0\DataDomain.dll
+C:\Users\ACER\Desktop\DataProcessor\DataDomain\bin\Debug\net5.0\ref\DataDomain.dll
+C:\Users\ACER\Desktop\DataProcessor\DataDomain\bin\Debug\net5.0\DataDomain.pdb
+C:\Users\ACER\Desktop\DataProcessor\DataDomain\obj\Debug\net5.0\DataDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\DataProcessor\DataDomain\obj\Debug\net5.0\DataDomain.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\DataProcessor\DataDomain\obj\Debug\net5.0\DataDomain.AssemblyInfo.cs
+C:\Users\ACER\Desktop\DataProcessor\DataDomain\obj\Debug\net5.0\DataDomain.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\DataProcessor\DataDomain\obj\Debug\net5.0\DataDomain.dll
+C:\Users\ACER\Desktop\DataProcessor\DataDomain\obj\Debug\net5.0\ref\DataDomain.dll
+C:\Users\ACER\Desktop\DataProcessor\DataDomain\obj\Debug\net5.0\DataDomain.pdb
+C:\Users\ACER\Desktop\DataProcessor\DataDomain\bin\Debug\net5.0\tempFiles\Binary_File.txt
+C:\Users\ACER\Desktop\DataProcessor\DataDomain\bin\Debug\net5.0\tempFiles\Text_File.txt
+C:\Users\ACER\Desktop\DataProcessor\DataDomain\obj\Debug\net5.0\DataDomain.csprojAssemblyReference.cache
